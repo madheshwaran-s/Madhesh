@@ -10,4 +10,5 @@ int main(){
    printf("Multiplication: %d\n", mul(3, 4));
    printf("Division: %d\n", div(10,2));
    return 0;
+   printf("hello");
 }
